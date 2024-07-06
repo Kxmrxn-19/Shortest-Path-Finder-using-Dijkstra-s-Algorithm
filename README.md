@@ -1,4 +1,4 @@
-# Shortest-Path-Finder-using-Dijkstra-s-Algorithm
+# Shortest Path Finder using Dijkstra's Algorithm
 
 This project is a visual representation of Dijkstra's algorithm implemented in Python using the Pygame library. The algorithm finds the shortest path between two points on a grid, taking into account barriers that the path cannot cross.
 
