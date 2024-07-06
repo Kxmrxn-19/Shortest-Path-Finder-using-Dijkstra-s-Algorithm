@@ -8,6 +8,10 @@ This project is a visual representation of Dijkstra's algorithm implemented in P
 - Interactively set the start and end points.
 - Create barriers to simulate obstacles.
 - Reset the grid to try different scenarios.
+  
+
+![](https://github.com/Kxmrxn-19/Shortest-Path-Finder-using-Dijkstra-s-Algorithm/blob/main/working.gif)
+
 
 ## Requirements
 - Python 3.x
